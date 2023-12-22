@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29a899fd-c349-44f0-ac09-eceb02a01b0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Utilities/MethodComparaison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Dao/DaoDs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Dao/SingletonConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/Ds1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/Ds2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/IDs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Utilities/MethodeComparaison2STRING.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +48,24 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/acer/Desktop/projet/projectEntityResolution",
     "onboarding.tips.debug.path": "C:/Users/Pc/Desktop/projectEntityResolution/src/main/java/com/entityResolution/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.running">
+    <configuration name="MethodeComparaison2STRING" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.entityResolution.Controller.Utilities.MethodeComparaison2STRING" />
+      <module name="projectEntityResolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.entityResolution.Controller.Utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="running" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.entityResolution.View.Main" />
       <module name="projectEntityResolution" />
@@ -65,6 +73,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodeComparaison2STRING" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
