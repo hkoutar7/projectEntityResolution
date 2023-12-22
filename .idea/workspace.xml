@@ -4,19 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29a899fd-c349-44f0-ac09-eceb02a01b0c" name="Changes" comment="" />
+    <list default="true" id="29a899fd-c349-44f0-ac09-eceb02a01b0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Utilities/MethodComparaison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Dao/DaoDs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Dao/SingletonConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/Ds1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/Ds2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/IDs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ZtvwRPIn0gyLYXrAcltkXYHYrk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,13 +48,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.running.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Pc/Desktop/projectEntityResolution/src/main/java/com/entityResolution/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="running" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.entityResolution.View.Main" />
+      <module name="projectEntityResolution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
