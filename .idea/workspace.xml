@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29a899fd-c349-44f0-ac09-eceb02a01b0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Alignment/Ds1DataLoaderFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Alignment/DsDataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Alignment/IDsDataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Alignment/IDsDataLoaderFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Cleaning/DSCleanDS1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Cleaning/DsClean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Cleaning/GeneralNameCleaning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Cleaning/IClean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Cleaning/NumberFormatCleaning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Cleaning/PersonNameCleaning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Cleaning/PhoneFormatCleaning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Dao/Alignment/DsDataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Dao/Alignment/DsDataLoaderTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Dao/Alignment/IDsDataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/IDS2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/IDsParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/EntityResolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/ViewDsEntity/DsCleanedFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/ViewDsEntity/IDsCleanedFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/ViewDsEntity/IVisualizeDS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/ViewDsEntity/VisualizeDSCleaned.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/ViewDsEntity/VisualizeDs1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Utilities/MethodComparaison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Utilities/MethodComparaison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/Dao/DaoDs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/Dao/SingletonConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Dao/SingletonConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/Ds1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/Ds1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/Ds2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/Ds2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/IDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Model/IDs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
