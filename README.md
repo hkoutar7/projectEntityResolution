@@ -2,8 +2,9 @@
 
 ## Introduction
 
-Welcome to the Entity Resolution project! This software is designed to address data deduplication challenges by cleaning and unifying information from diverse sources, including SQL databases, NoSQL document-oriented databases, and Excel files. The primary objective is to enhance data quality by resolving discrepancies and eliminating errors, particularly typos, through a systematic approach.## Features
+Welcome to the Entity Resolution project! This software is designed to address data deduplication challenges by cleaning and unifying information from diverse sources, including SQL databases, NoSQL document-oriented databases, and Excel files. The primary objective is to enhance data quality by resolving discrepancies and eliminating errors, particularly typos, through a systematic approach.
 
+## Features
 ### Data Handling
 
 - **Data Sources**: Connect and fetch data efficiently from SQL databases, NoSQL document-oriented databases, and Excel sheets.
