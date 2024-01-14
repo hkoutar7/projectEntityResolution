@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29a899fd-c349-44f0-ac09-eceb02a01b0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Blocking/ISimilarityMeasureAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Blocking/LevenshteinSimilarity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Blocking/Tuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Blocking/blocking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/Controller/Utilities/MethodeComparaisonImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/ViewBlocking/blockingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/EntityResolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entityResolution/View/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="29a899fd-c349-44f0-ac09-eceb02a01b0c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
