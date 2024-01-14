@@ -41,7 +41,7 @@ Install via
 ```bash
     git clone https://github.com/hkoutar7/projectEntityResolution.git project
 ```
-    ## Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
