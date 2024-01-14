@@ -1,9 +1,9 @@
 package com.entityResolution.View;
 
+import com.entityResolution.Controller.Alignment.Ds1DataLoaderFactory;
 import com.entityResolution.Controller.Utilities.*;
-import com.entityResolution.Dao.DaoDs;
-import com.entityResolution.Dao.SingletonConnection;
-import com.entityResolution.Model.*;
+import com.entityResolution.Model.IDs;
+import com.entityResolution.View.ViewDsEntity.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,10 +15,10 @@ public class Main {
         s2 = MethodeComparaison2STRING.toLowercase(s2);
         double Porcentage = MethodeComparaison2STRING.similarityPercentage(s1, s2);
         if(Porcentage >= 60){
-            System.out.printf("Comparable");
+            System.out.println("Comparable" + Porcentage);
         }
         else if(Porcentage >= 0){
-            System.out.printf("NON_Comparable");
+            System.out.println("NON_Comparable" + Porcentage);
         }
     }
     public static void comparaisonEntrePlusieursString(String s1,String... s2){
@@ -27,28 +27,26 @@ public class Main {
         a1 = MethodeComparaison2STRING.toLowercase(a1);
         double Porcentage = MethodeComparaison2STRING.similarityPercentage(s1, a1);
         if(Porcentage >= 60){
-            System.out.printf("Comparable");
+            System.out.println("Comparable " + Porcentage);
         }
         else if(Porcentage >= 0){
-            System.out.printf("NON_Comparable");
+            System.out.println("NON_Comparable " + Porcentage);
         }
     }
+
+
+
     public static  void main(String [] argv){
 
-        List<IDs> entities = new ArrayList<>();
-        DaoDs daods = new DaoDs();
-        IDs obj = new Ds1();
+        List <IDs> entities = new ArrayList<>();
+        IVisualizeDS visual ;
 
-        entities = daods.getDuplicateSetData(obj);
+        visual = new VisualizeDs1(new Ds1DataLoaderFactory());
+        visual.printEntityTable();
 
-        for (IDs entity : entities) {
-            if (entity instanceof Ds1) {
-                Ds1 ds1Entity = (Ds1) entity;
-                System.out.println(ds1Entity);
-            }
-        }
-        comparaisonEntre2String("0610719939","+212610719939");
-        comparaisonEntrePlusieursString("12 Rue Fidia Berrechid", "rue al fidia","BERRECHID");
+        visual = new VisualizeDSCleaned(new DsCleanedFactory());
+        visual.printEntityTable();;
+
     }
 
 
