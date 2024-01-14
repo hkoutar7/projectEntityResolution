@@ -2,16 +2,13 @@ package com.entityResolution.Model;
 
 public interface IDs extends IDsParent {
 
-    String getFirstName();
-    void setFirstName(String firstName);
-
-    String getLastName();
-    void setLastName(String lastName);
-
-    String getPhoneNumber();
-    void setPhoneNumber(String phoneNumber);
-
-    String getAddress();
-    void setAddress(String address);
+    public String getFirstName();
+    public void setFirstName(String firstName);
+    public String getLastName();
+    public void setLastName(String lastName);
+    public String getPhoneNumber();
+    public void setPhoneNumber(String phoneNumber);
+    public String getAddress();
+    public void setAddress(String address);
 
 }
