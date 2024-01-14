@@ -1,5 +1,6 @@
 package com.entityResolution.Model;
 
 public interface IDsParent {
-    int getId();
+    public int getId();
+    public void setId(int id);
 }
